@@ -1,0 +1,9 @@
+[submodule "element-web"]
+	path = element-web
+	url = https://github.com/nedbm/sociail-test-elements-live.git
+[submodule "matrix-js-sdk"]
+	path = matrix-js-sdk
+	url = https://github.com/nedbm/sociail-test-elements-live-matrix-js-sdk.git
+[submodule "matrix-react-sdk"]
+	path = matrix-react-sdk
+	url = https://github.com/nedbm/sociail-test-elements-live-matrix-react-sdk.git
