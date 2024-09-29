@@ -13,5 +13,9 @@ Adding a combobox or auto typing as you type in the skill you want to add if it 
 Adding a color pallet to similar skills such as a blue for developer or IT or yellow for PM role.
 
 
-https://github.com/user-attachments/assets/38922e08-3e04-439e-8488-95b1ac864f6b
+
+
+https://github.com/user-attachments/assets/eacfd0d8-3e4d-4fb3-a362-0c1067616ede
+
+
 
